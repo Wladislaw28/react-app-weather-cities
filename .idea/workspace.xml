@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="778a2157-de9f-4c12-a990-1d780becc3de" name="Default Changelist" comment="" />
+    <list default="true" id="778a2157-de9f-4c12-a990-1d780becc3de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -78,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="69">
+              <caret line="4" column="69" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -241,12 +243,12 @@
       <workItem from="1553681848881" duration="159000" />
       <workItem from="1554644645487" duration="1260000" />
       <workItem from="1554647632505" duration="31000" />
-      <workItem from="1554980952276" duration="1158000" />
+      <workItem from="1554980952276" duration="2826000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34892000" />
+    <option name="totallyTimeSpent" value="36560000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -337,8 +339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="69">
+          <caret line="4" column="69" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="70" />
         </state>
       </provider>
     </entry>
